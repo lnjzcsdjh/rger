@@ -159,15 +159,6 @@ html, body {
 	background: #1E2C36;
 }
 
-.unboxing {
-	display: block;
-	position: absolute;
-	top: 0;
-	left: 0;
-	height: 100%;
-	width: 100%;
-	opacity: 1;
-}
 
 .tooltipAnchor {
 	display: none;
